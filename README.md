@@ -1,5 +1,7 @@
 # WeiXin 1:1 Chat Year-End Visualized Report
 
+- [2024](https://static.quitw.org/wx-report/2024.html)
+
 ## Usage
 
 1. Use [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) to export sqlite3 DB from WeiXin/WeChat.
