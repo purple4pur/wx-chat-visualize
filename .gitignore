@@ -1,0 +1,5 @@
+*.db
+.env
+/.ipynb*
+/output/
+/wxdump_work/
