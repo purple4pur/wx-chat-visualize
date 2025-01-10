@@ -17,4 +17,8 @@ TARGET_ID = 'wxid_abcd1234xyz'
 ```
 
 3. Follow instructions in `main.ipynb`.
-4. Export result to html by `export.sh` if necessary.
+4. Export result to html by `export.sh` if necessary:
+
+```sh
+./export.sh 2024
+```
